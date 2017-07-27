@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"该脚本主要用于接收Python命令行的参数,并输出"
+"该脚本主要用于接收Python命令行的参数,并输出,执行时python xx.py 参数1 参数2"
 import sys
 
 #中文采用decode解码，否则命令行下会出现乱码
