@@ -4,6 +4,7 @@ import base64
 import hashlib
 
 '''
+NCTF Program编程题 根据加密写解密
 Author@Xiaoyang
 说明:加密是进行了位运算和base64编码
 核心思想是,对一个数值进行异或后,得到的结果再次进行异或会得到原文。
